@@ -1,3 +1,3 @@
-console.log('Learning git');
+console.log('Main branch version');
 
 console.log('anotrht commit');
