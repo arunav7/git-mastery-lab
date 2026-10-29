@@ -1,2 +1,2 @@
-timeout=30
+timeout=45
 retries=3
