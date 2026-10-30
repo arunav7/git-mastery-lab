@@ -1,3 +1,2 @@
 version=1
 feature=enabled
-debug_mode=true
